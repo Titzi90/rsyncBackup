@@ -1,0 +1,3 @@
+# Allow backup to run rsync demon
+backup ALL=(root) NOPASSWD: /usr/local/sbin/startRsyncd.sh
+

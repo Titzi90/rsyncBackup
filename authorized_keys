@@ -1,0 +1,1 @@
+command="sudo startRsyncd.sh $SSH_ORIGINAL_COMMAND",no-agent-forwarding,no-port-forwarding,no-pty,no-user-rc,no-X11-forwarding SSH_KEY
